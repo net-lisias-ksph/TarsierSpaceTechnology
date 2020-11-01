@@ -1,5 +1,8 @@
 # Tarsier Space Technology
 
+* 2019-0425: 7.6 (JPLRepo) for KSP 1.7.0
+	+ Re-compile for KSP 1.7.x (include required code changes)
+	+ Fixed planet shadows when viewing planets on the other side of the sun.
 * 2019-0217: 7.5 (JPLRepo) for KSP 1.6.1
 	+ Re-compile for KSP 1.6.x
 * 2018-1026: 7.4 (JPLRepo) for KSP 1.5.1
