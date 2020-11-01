@@ -1,5 +1,12 @@
 # Tarsier Space Technology
 
+* 2016-1103: 6.6 (JPLRepo) for KSP 1.2.1
+```
+Re-compile for KSP 1.2.1.
+Moved initializers out of ..ctor to avoid Unity messages.
+Eliminate NullRef errors on scene change for onGUI (was issuing two errors each time you switched scene).
+Support ResearchBodies 1.9.
+```
 * 2016-1012: 6.5 (JPLRepo) for KSP 1.2
 	+ Changes for KSP 1.2.
 		- Added a check to Contract generation to ensure the TST parts are actually loaded in-game (removes log spam if they aren't).
