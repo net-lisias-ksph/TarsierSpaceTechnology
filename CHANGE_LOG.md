@@ -1,5 +1,14 @@
 # Tarsier Space Technology
 
+* 2015-0718: 5.4.1 (JPLRepo) for KSP 1.0.4.
+	+ Support for KSP 1.0.4. Attempting the impossible to improve the camera wobble in a 32bit Game engine where floating point errors are inevitable and a losing battle with what is called 'spatial jitter'.
+	+ Have added Gyroscopic ReactionWheels to the Space Telescope parts.
+	+ Have added a Button in the TST menu labeled "F/T" that appears to each space telescope.
+	+ Pressing this button will bring up a fine tuning window that allows you to:
+	+ Fine tune the Gyroscopic ReactionWheels "Sensitivity" (default=1) and "Powerscale" (default=0.10 torque) using sliders.
+	+ Have added fine tuning of the SAS PID controller "KP (default=12), KI (default=6), KD (default=0.5)" values through three sliders on the same window.
+	+ If you don't know how a PID controller works or these values you can start reading up here.
+	+ https://en.wikipedia.org/wiki/PID_controller
 * 2015-0623: 5.4 (JPLRepo) for KSP 1.0.3
 	+ support for KSP 1.0.3
 	+ Seems improvements in KSP 1.0.3 have made the camera wobble better (but not perfect).
