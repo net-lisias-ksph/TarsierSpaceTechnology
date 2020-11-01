@@ -1,5 +1,10 @@
 # Tarsier Space Technology
 
+* 2015-0502: 4.6 (JPLRepo) for KSP 1.0.0
+	+ Compat. with KSP V1.0.0
+	+ Rebalanced all parts costs and to new Tech Tree.
+	+ nerfed Small telescope range.
+	+ Fixes for contract spamming and you now need the Large telescope Tech for the Galaxy contracts.
 * 2015-0213: 2.5 (JPLRepo) for KSP 0.7.3
 	+ Fixes for 0.90
 	+ Fixed to integrate with Autopilot correctly.
