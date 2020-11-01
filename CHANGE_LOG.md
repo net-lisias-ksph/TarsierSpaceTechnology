@@ -1,5 +1,7 @@
 # Tarsier Space Technology
 
+* 2013-1228: 2.3-VE (tobyb121) for KSP 0.7.3
+	+ No changelog provided
 * 2013-1227: 2.3 (tobyb121) for KSP 0.7.3
 	+ Added targeting to TelescopeCamera
 	+ Bug fixes for performance
