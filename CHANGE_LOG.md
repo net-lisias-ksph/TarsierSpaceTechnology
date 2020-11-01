@@ -1,5 +1,8 @@
 # Tarsier Space Technology
 
+* 2014-0710: 2.5 (tobyb121) for KSP 0.7.3
+	+ Got rid of camera wobble!!!
+	+ Added a new telescope and tweaked the zoom to fit into the tech tree
 * 2014-0110: 2.4 (tobyb121) for KSP 0.7.3
 	+ Telescope:
 	+ Servos added for fine control
