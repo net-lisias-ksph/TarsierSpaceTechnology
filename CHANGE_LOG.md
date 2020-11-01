@@ -1,5 +1,7 @@
 # Tarsier Space Technology
 
+* 2017-1007: 7.1 (JPLRepo) for KSP 1.3.1
+	+ Re-compile for KSP 1.3.1
 * 2017-0806: 7.0 (JPLRepo) for KSP 1.3.0
 	+ Fix List of Celestial Bodies display for targeting in the Telescopes UI.
 	+ Also the same Celestial Body list will update while in flight if the player is using a Contracts app that accepts a contract for a Celestial Body.
