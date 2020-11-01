@@ -1,5 +1,20 @@
 # Tarsier Space Technology
 
+* 2015-0529: 5.0 (JPLRepo) for KSP 1.0.5
+	+ Added Menu (GUI) that can be opened/closed via the stock AppLauncher or Toolbar by Blizzy.
+	+ Menu shows telescopes, chemcams and SDDs on vessel. Allows you to open/close cameras, Camera GUI, fill SDDs and view science directly from the GUI.
+	+ Added Menu items to camera screen to view Celestial Bodies (just like the Galaxy list) so you can set camera target from the list.
+	+ Added Action Menu support for open/close cameras and fill SDDs.
+	+ Added Distant Object Enhancement mod support.
+	+ Added a Config file with the following Settings:-
+	+ FwindowPosX,Y - X and Y position for the new GUI window.
+	+ CwindowPosX,Y - X and Y position for the Telescopes/ChemCam Camera GUI window.
+	+ GalwindowPosX,Y - X and Y position for the Galaxy list window.
+	+ BodwindowPosX,Y - X and Y position for the Celestial Bodies list window.
+	+ ChemwinSml, Lge - ChemCam Window Size in pixels for both small and large window. (can now toggle small and large windows for the ChemCam just like the Telescope camera GUI).
+	+ TelewinSml, Lge - Same as the ChemCam Window size but this is for the telescope camera GUI.
+	+ UseAppLauncher = true / false - if True uses the in-game Application Launcher buttons for the new Menu GUI. If set to false, will use Toolbar by Blizzy (optional separate mod install).
+	+ debugging = False / True - Turns on/off Log Spam for debugging purposes.
 * 2015-0509: 4.7 (JPLRepo) for KSP 1.0.
 	+ Added KAS and KIS support for the small HDD(SDD) - Requires Module Manager to be installed.
 	+ Can now STORE science data into SDDs via EVA. Reminder Warning: Storing and removing science data from SDDs lose some science value each time (data corruption feature).
