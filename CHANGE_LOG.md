@@ -1,5 +1,12 @@
 # Tarsier Space Technology
 
+* 2014-0110: 2.4 (tobyb121) for KSP 0.7.3
+	+ Telescope:
+	+ Servos added for fine control
+	+ Extra info displayed on what telescope is looking at
+	+ Can collect science from EVA
+	+ Hard Drives:
+	+ Removed limitations on HDDs which only allows 1 item per science subject, now unlimited
 * 2013-1228: 2.3-VE (tobyb121) for KSP 0.7.3
 	+ No changelog provided
 * 2013-1227: 2.3 (tobyb121) for KSP 0.7.3
