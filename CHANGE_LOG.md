@@ -1,5 +1,8 @@
 # Tarsier Space Technology
 
+* 2013-1227: 2.3 (tobyb121) for KSP 0.7.3
+	+ Added targeting to TelescopeCamera
+	+ Bug fixes for performance
 * 2013-1223: 2.2 (tobyb121) for KSP 0.7.3
 	+ Fixed low FPS when camera closed.
 	+ Created release build for extra performance.
