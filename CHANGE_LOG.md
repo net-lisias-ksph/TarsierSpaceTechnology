@@ -1,5 +1,10 @@
 # Tarsier Space Technology
 
+* 2019-0623: 7.7 (JPLRepo) for KSP 1.7.2
+	+ Re-compile for KSP 1.7.2 (include required code changes).
+	+ Fixed NRE on experiment science return in 1.7.2.
+	+ Added contract synopsis text to contract notes that will now show in the stock contracts app.
+	+ Fixed game settings not applying correct in-game when changed.
 * 2019-0425: 7.6 (JPLRepo) for KSP 1.7.0
 	+ Re-compile for KSP 1.7.x (include required code changes)
 	+ Fixed planet shadows when viewing planets on the other side of the sun.
