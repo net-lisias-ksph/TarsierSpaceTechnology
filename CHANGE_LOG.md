@@ -1,5 +1,26 @@
 # Tarsier Space Technology
 
+* 2016-0523: 6.2 (JPLRepo) for KSP 1.1.2
+	+ Changed Telescope Cameras to now show the SkyBox and Atmosphere shading. Skybox zooms proportional to the Camera zoom (no more pixelated skybox).
+	+ Skybox Camera Zooming can be disabled completely by manually changing the Config.cfg file field ZoomSkyBox to False.
+	+ Fixed scroll window in the TST settings menu.
+	+ Added Maximum number of ChemCam contracts setting to TST settings menu (was in config file, but not in in-game menu). - Only available in Career mode.
+	+ Added Restrict ChemCam Contracts setting to TST settings menu (was in config file, but not in in-game menu).- Only available in Career mode.
+	+ TST settings can now switch between ToolBar mod Icon and AppLauncher (Stock) Icon immediately without requiring a scene change.
+	+ TST settings will now recognise when ToolBar is removed and change to the Stock Icon by default.
+	+ More robust Science checking when taking pictures - capture failures and better logging in error situations.
+	+ Fixed Remote Tech integration - Requires V 1.7 and up of Remote Tech.
+	+ Sigma Binary internal Bodies (not the actual bodies) should no longer appear in the Targets list for the Telescopes.
+	+ Fixed Contracts system for when Kopernicus is installed but NOT OPM (will just use a list of the bodies in order to generate contracts).
+	+ Made sure ChemCam contracts won't generate for ANY Gas Giants, or for Water Biomes. (Removed Gas Giants from Config file, can now determine this in-game).
+	+ Fixed typo in Module Manager files for OPM and RSS science definitions.
+	+ Added KSPedia pages for TST.
+	+ Added ability to send science directly from the Space Telescopes, ChemCam and SSD's to an attached Science Lab.
+	+ Improved screen messages when moving and deleting science data.
+	+ Module Manager config file included to turn off Kopernicus OnDemand texture loading until a more permanent solution can be found.
+	+ Optional Module Manager config file included to convert DMagic Orbital Science (DMOS) Little Brother and Big Brother Surveillance Camera parts into TST Telescopes.
+	+ If activated these parts from DMOS will function as both TST Telescopes and DMOS Surveillance Camera's.
+	+ This file is supplied de-activated. To activate, remove the ".optional" from the end of the filename of the file /GameData/TarsierSpaceTech/DmagicOrbitalScienceScopes.cfg.optional.
 * 2016-0430: 6.1 (JPLRepo) for KSP 1.1.2
 	+ V6.1 "Bug Fixes"
 	+ Compiled against KSP 1.1.2.
