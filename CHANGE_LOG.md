@@ -1,5 +1,9 @@
 # Tarsier Space Technology
 
+* 2015-0601: 5.1 (JPLRepo) for KSP 1.0.5
+	+ Remote Tech support for new GUI window. Now if no connection you cannot open/close cameras, view science or move science to SDDs.
+	+ Re-sized the new GUI window to make it a bit bigger.
+	+ This version will not break save games from version 5.0.
 * 2015-0529: 5.0 (JPLRepo) for KSP 1.0.5
 	+ Added Menu (GUI) that can be opened/closed via the stock AppLauncher or Toolbar by Blizzy.
 	+ Menu shows telescopes, chemcams and SDDs on vessel. Allows you to open/close cameras, Camera GUI, fill SDDs and view science directly from the GUI.
