@@ -1,5 +1,8 @@
 # Tarsier Space Technology
 
+* 2015-0602: 5.2 (JPLRepo) for KSP 1.0.5
+	+ Added check for local control for Remote Tech.
+	+ This is not save game breaking from V5.0 up.
 * 2015-0601: 5.1 (JPLRepo) for KSP 1.0.5
 	+ Remote Tech support for new GUI window. Now if no connection you cannot open/close cameras, view science or move science to SDDs.
 	+ Re-sized the new GUI window to make it a bit bigger.
