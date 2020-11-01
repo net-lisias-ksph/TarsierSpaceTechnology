@@ -1,5 +1,10 @@
 # Tarsier Space Technology
 
+* 2016-0709: 6.4 (JPLRepo) for KSP 1.1.3
+	+ Compatible version for integration with ResearchBodies V1.8.
+	+ Re-balanced price of Telescopes to take into account the cost of the ResearchBodies and Asteroid Day infrared telescopes.
+		- The small telescope now costs 10,000 (was 5,000) - entry price is still 5,000.
+		- The advanced telescope now costs 25,000 (was 10,000) - entry price is still 10,000.
 * 2016-0623: 6.3 (JPLRepo) for KSP 1.1.3
 	+ Added support for New Horizons Kopernicus planet mod.
 		- Changed Reputation for contracts to be related to distance from home world, rather than the planet order from the Sun.
