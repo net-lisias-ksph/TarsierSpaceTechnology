@@ -1,5 +1,8 @@
 # Tarsier Space Technology
 
+* 2017-0806: 7.0 (JPLRepo) for KSP 1.3.0
+	+ Fix List of Celestial Bodies display for targeting in the Telescopes UI.
+	+ Also the same Celestial Body list will update while in flight if the player is using a Contracts app that accepts a contract for a Celestial Body.
 * 2017-0714: 6.9 (JPLRepo) for KSP 1.3.0
 	+ Fix ChemCam not finding the ground/celestial body.
 	+ Also allow ChemCam and Telescopes to be opened and closed in VAB/SPH to allow user to check part placement when camera is open.
