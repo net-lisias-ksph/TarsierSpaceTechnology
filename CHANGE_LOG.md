@@ -1,5 +1,19 @@
 # Tarsier Space Technology
 
+* 2015-1031: 5.5 (JPLRepo) for KSP 1.0.4.
+	+ V5.5 Amended support for Distant Object Enhancement mod and Remote Tech mod so that TST no longer is bound to a specific version of these mods.
+		- From now on TST should work with any version of DOE and RT. Reminder: DOE support for flares should now work. RemoteTech : TST parts and menu only works if you have
+		- local control or active connect for a vessel.
+		- Added Science Defs for Real Solar System and Outer Planets Mods. Science defs and contracts as well as all of TST should now fully support RSS and OPM. NB: To use the science defs
+		- for RSS and OPM you MUST have Module Manager mod installed.
+		- ChemCam contracts will now only offer/allow up to x active or offerred contracts (before was unlimited). x by default is 3. You can change this in the Config.cfg file field "maxChemCamContracts".
+		- ChemCam contracts will now only be offered for bodies you have already photographed using a Telescope by default. You can change this in the Config.cfg file field "photoOnlyChemCamContracts".
+		- Externalised lists of bodies and galaxies now in the config.cfg settings file, these lists determine the order (and if) a Telescope/ChemCam contract will be offerred.
+		- The TSTGasPlanets node in the config file is a list of gas planets that are excluded from all ChemCam contracts, Can't land on a gas planet can we!
+		- The TSTStockPlanetOrder node is the valid and order of bodies and galaxies contracts will be offerred for Telescope contracts. For ChemCam contracts a random body is selected from this list based on the prestige level
+		- you have already completed a ChemCam contract for (As per previous comment about prestige levels for ChemCam contracts).
+		- The TSTRSSPlanetOrder node is the list used if you have Real Solar System mod installed (ignored if it is not installed), operates the same as the TSTStockPlanetOrder list described above.
+		- The TSTOPMPlanetOrder node is the list used if you have Outer Planets mod installed (ignored if it is not installed), operates the same as the TSTStockPlanetOrder list described above.
 * 2015-0718: 5.4.1 (JPLRepo) for KSP 1.0.4.
 	+ Support for KSP 1.0.4. Attempting the impossible to improve the camera wobble in a 32bit Game engine where floating point errors are inevitable and a losing battle with what is called 'spatial jitter'.
 	+ Have added Gyroscopic ReactionWheels to the Space Telescope parts.
