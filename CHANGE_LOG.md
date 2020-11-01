@@ -1,5 +1,8 @@
 # Tarsier Space Technology
 
+* 2015-0623: 5.4 (JPLRepo) for KSP 1.0.3
+	+ support for KSP 1.0.3
+	+ Seems improvements in KSP 1.0.3 have made the camera wobble better (but not perfect).
 * 2015-0613: 5.3 (JPLRepo) for KSP 1.0.5
 	+ Fixed GUI issue with Critical Temperature gauge mod.
 	+ Saved camera pictures now in TWO sizes. Low and high(full screen) res. - Also added save camera pictures to the ChemCam part (previously only telescopes could save pics).
