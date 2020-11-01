@@ -1,5 +1,8 @@
 # Tarsier Space Technology
 
+* 2019-1019: 7.8 (JPLRepo) for KSP 1.8.0
+	+ Re-compile for KSP 1.8.x.
+	+ Fix the Planet and Galaxy selection list on the Telescopes.
 * 2019-0623: 7.7 (JPLRepo) for KSP 1.7.2
 	+ Re-compile for KSP 1.7.2 (include required code changes).
 	+ Fixed NRE on experiment science return in 1.7.2.
