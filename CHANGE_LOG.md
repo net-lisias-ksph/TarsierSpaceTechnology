@@ -1,5 +1,15 @@
 # Tarsier Space Technology
 
+* 2016-0127: 5.8 (JPLRepo) for KSP 1.0.5
+	+ V5.8 Added support for ResearchBodies mod (MUST HAVE ResearchBodies V1.6 or above).
+		- If ResearchBodies mod is installed then:-
+		- Telescope and ChemCam contracts will NOT generate for bodies that have yet to be discovered.
+		- If you take a picture with a Telescope of a body that is yet to be discovered AND transmit/recovery it, it will become discovered.
+		- Subsequent pictures taken and transmitted/recovered of a already discovered body will add 20 research to that body.
+		- The TST Telescopes act the same as the ResearchBodies telescope, IE:they have the Research button in their right click menu and will discover bodies they are pointed at in the same way as the ResearchBodies telescope does.
+		- The TST GUI camera-window "Show Bodies" list will NOT show un-discovered bodies or galaxies.
+		- V5.7 Completing TST telescope picture contracts will no longer register in a career game as having Reached that body. This was interfering with KSP generating the default
+			- flyby and explore contracts for the bodies.
 * 2015-1112: 5.6 (JPLRepo) for KSP 1.0.5 Silent Edition"
 	+ Updated for KSP 1.0.5 including adding support for new Science transmission failure feature to put science back into telescopes and drives when transmissions fail.
 	+ This version is only compatible with KSP 1.0.5, do not upgrade KSP 1.0.4 installs with this version.
