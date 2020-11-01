@@ -1,5 +1,7 @@
 # Tarsier Space Technology
 
+* 2017-0702: 6.8 (JPLRepo) for KSP 1.3.0
+	+ Support ResearchBodies V1.9.2
 * 2017-0530: 6.7 (JPLRepo) for KSP 1.3.0
 	+ V6.7
 		- Re-compile for KSP 1.3.
