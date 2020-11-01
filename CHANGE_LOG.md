@@ -1,5 +1,7 @@
 # Tarsier Space Technology
 
+* 2016-1104: 6.6.1 (JPLRepo) for KSP 1.2.1
+	+ Fix ChemCam crashing the editor scene.
 * 2016-1103: 6.6 (JPLRepo) for KSP 1.2.1
 ```
 Re-compile for KSP 1.2.1.
