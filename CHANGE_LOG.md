@@ -1,5 +1,8 @@
 # Tarsier Space Technology
 
+* 2015-1112: 5.6 (JPLRepo) for KSP 1.0.5 Silent Edition"
+	+ Updated for KSP 1.0.5 including adding support for new Science transmission failure feature to put science back into telescopes and drives when transmissions fail.
+	+ This version is only compatible with KSP 1.0.5, do not upgrade KSP 1.0.4 installs with this version.
 * 2015-1031: 5.5 (JPLRepo) for KSP 1.0.4.
 	+ V5.5 Amended support for Distant Object Enhancement mod and Remote Tech mod so that TST no longer is bound to a specific version of these mods.
 		- From now on TST should work with any version of DOE and RT. Reminder: DOE support for flares should now work. RemoteTech : TST parts and menu only works if you have
