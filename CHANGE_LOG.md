@@ -1,5 +1,9 @@
 # Tarsier Space Technology
 
+* 2015-0213: 2.5 (JPLRepo) for KSP 0.7.3
+	+ Fixes for 0.90
+	+ Fixed to integrate with Autopilot correctly.
+	+ Fixed for contracts and galaxies to work correctly.
 * 2014-0710: 2.5 (tobyb121) for KSP 0.7.3
 	+ Got rid of camera wobble!!!
 	+ Added a new telescope and tweaked the zoom to fit into the tech tree
