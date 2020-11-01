@@ -1,5 +1,10 @@
 # Tarsier Space Technology
 
+* 2016-0430: 6.1 (JPLRepo) for KSP 1.1.2
+	+ V6.1 "Bug Fixes"
+	+ Compiled against KSP 1.1.2.
+	+ Fixed potential issue with ToolTip log spam.
+	+ Fixed V6.0 bug where gas planets and the sun were eligible for ChemCam contracts.
 * 2016-0420: 6.0 (JPLRepo) for KSP 1.1.1
 	+ V6.0 KSP 1.1 "Turbo Charged Edition" - Release for the full release of KSP 1.1.
 	+ This version is NOT backwardly compatible with KSP 1.0.5 or earlier versions. If you are still using KSP 1.0.5 download V5.9 of TST.
