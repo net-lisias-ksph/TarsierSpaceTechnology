@@ -1,5 +1,7 @@
 # Tarsier Space Technology
 
+* 2019-0217: 7.5 (JPLRepo) for KSP 1.6.1
+	+ Re-compile for KSP 1.6.x
 * 2018-1026: 7.4 (JPLRepo) for KSP 1.5.1
 	+ Re-compile for KSP 1.5.x
 * 2018-0317: 7.3 (JPLRepo) for KSP 1.4.1
