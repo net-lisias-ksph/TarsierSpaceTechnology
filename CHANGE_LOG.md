@@ -1,5 +1,8 @@
 # Tarsier Space Technology
 
+* 2019-1104: 7.9 (JPLRepo) for KSP 1.8.1
+	+ Fix chem cam shader
+	+ Fix bodies not showing in telescope body list in career games with active contracts.
 * 2019-1019: 7.8 (JPLRepo) for KSP 1.8.0
 	+ Re-compile for KSP 1.8.x.
 	+ Fix the Planet and Galaxy selection list on the Telescopes.
