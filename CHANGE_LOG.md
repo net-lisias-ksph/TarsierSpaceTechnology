@@ -1,5 +1,15 @@
 # Tarsier Space Technology
 
+* 2015-0509: 4.7 (JPLRepo) for KSP 1.0.
+	+ Added KAS and KIS support for the small HDD(SDD) - Requires Module Manager to be installed.
+	+ Can now STORE science data into SDDs via EVA. Reminder Warning: Storing and removing science data from SDDs lose some science value each time (data corruption feature).
+	+ Drive Capacity for SDDs upped to 120mits (about 4 pictures) and 480mits (about 16 pictures).
+	+ Re-balance max temperatures of parts.
+	+ The Small Telescope now only returns 80% of max science value for pictures of planetoids and 50% of max science value for pictures of galaxies. The Large Telescope returns Full science value.
+	+ Added Science descriptions for the Galaxies.
+	+ Added lab boost to Science gathered - science can now be boosted in the Mobile Lab.
+	+ Added KSP-AVC support.
+	+ Converted all PNGs to DDS files now supported in KSP 1.0.x.
 * 2015-0502: 4.6 (JPLRepo) for KSP 1.0.0
 	+ Compat. with KSP V1.0.0
 	+ Rebalanced all parts costs and to new Tech Tree.
