@@ -1,5 +1,10 @@
 # Tarsier Space Technology
 
+* 2020-0228: 7.10 (JPLRepo) for KSP 1.9.1
+	+ V7.10
+		- Update for KSP 1.9.x
+		- Remove mini AVC support.
+		- Chinese Localization by 6DYZBX.
 * 2019-1104: 7.9 (JPLRepo) for KSP 1.8.1
 	+ Fix chem cam shader
 	+ Fix bodies not showing in telescope body list in career games with active contracts.
