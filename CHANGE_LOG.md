@@ -1,5 +1,12 @@
 # Tarsier Space Technology
 
+* 2017-0530: 6.7 (JPLRepo) for KSP 1.3.0
+	+ V6.7
+		- Re-compile for KSP 1.3.
+		- Localized for Languages. Translation volunteers welcome. ;)
+		- Show Data Corruption Percentage and EC usage for SSDs in their PAW.
+		- SSDs now check if infinite Electric Charge cheat option is on or off.
+		- Performance improvements under the hood.
 * 2016-1104: 6.6.1 (JPLRepo) for KSP 1.2.1
 	+ Fix ChemCam crashing the editor scene.
 * 2016-1103: 6.6 (JPLRepo) for KSP 1.2.1
