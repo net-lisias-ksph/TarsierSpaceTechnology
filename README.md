@@ -7,6 +7,7 @@ Tarsier Space Technology - Space Telescopes, Galaxies, ChemCam surface analyser,
 
 * [tobyb121](https://forum.kerbalspaceprogram.com/index.php?/profile/76289-tobyb121/) ROOT
 	+ KSP Forum -- Missed In Action
+	+ [imgur](https://imgur.com/a/tinKd)
 	+ [Github](https://github.com/tobyb121/TarsierSpaceTechnology)
 * [JPLRepo](https://forum.kerbalspaceprogram.com/index.php?/profile/114736-jplrepo/) CURRENT MAINTAINER
 	+ [KSP Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/154853-110x-tarsier-space-technology-with-galaxies-v711-17th-oct-2020/)
