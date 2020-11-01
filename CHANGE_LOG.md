@@ -1,5 +1,11 @@
 # Tarsier Space Technology
 
+* 2015-0613: 5.3 (JPLRepo) for KSP 1.0.5
+	+ Fixed GUI issue with Critical Temperature gauge mod.
+	+ Saved camera pictures now in TWO sizes. Low and high(full screen) res. - Also added save camera pictures to the ChemCam part (previously only telescopes could save pics).
+	+ Fix to take picutre/fire laser messages to provide feedback on science collected/not collected AND pictures saved.
+	+ Now compatible with Kopernicus planet mod.
+	+ Toolbar and/or Applauncher buttons (and GUI) now only show if you have TST parts on the active vessel.
 * 2015-0602: 5.2 (JPLRepo) for KSP 1.0.5
 	+ Added check for local control for Remote Tech.
 	+ This is not save game breaking from V5.0 up.
