@@ -1,5 +1,11 @@
 # Tarsier Space Technology
 
+* 2016-0420: 6.0 (JPLRepo) for KSP 1.1.1
+	+ V6.0 KSP 1.1 "Turbo Charged Edition" - Release for the full release of KSP 1.1.
+	+ This version is NOT backwardly compatible with KSP 1.0.5 or earlier versions. If you are still using KSP 1.0.5 download V5.9 of TST.
+	+ This version has NOT been tested and does not work with ResearchBodies mod (as that mod has to be updated to KSP 1.1 first).
+	+ Fixed the Settings Menu settings for the Telescope large GUI size.
+	+ Added new Editor search tags: 'tarsier tst advanced telescope science'
 * 2016-0401: 5.9.1 (JPLRepo) for KSP 1.1 PRE-RELEASE
 	+ This is first cut experiments pre-release for upcoming Full release when KSP 1.1 goes full release.
 	+ BEWARE: This no doubt has BEES in it, and is NOT a RELEASE version.
