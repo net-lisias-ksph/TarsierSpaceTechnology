@@ -1,5 +1,8 @@
 # Tarsier Space Technology
 
+* 2017-1104: 7.2 (JPLRepo) for KSP 1.3.1
+	+ Fix integration with ResearchBodies so ResearchBodies discovered bodies still show even if a TST contract has not been completed for them. Also fixes them showing correctly without ResearchBodies mod installed.
+	+ Re-balance contract rewards to part costs.
 * 2017-1007: 7.1 (JPLRepo) for KSP 1.3.1
 	+ Re-compile for KSP 1.3.1
 * 2017-0806: 7.0 (JPLRepo) for KSP 1.3.0
