@@ -1,5 +1,8 @@
 # Tarsier Space Technology
 
+* 2017-0714: 6.9 (JPLRepo) for KSP 1.3.0
+	+ Fix ChemCam not finding the ground/celestial body.
+	+ Also allow ChemCam and Telescopes to be opened and closed in VAB/SPH to allow user to check part placement when camera is open.
 * 2017-0702: 6.8 (JPLRepo) for KSP 1.3.0
 	+ Support ResearchBodies V1.9.2
 * 2017-0530: 6.7 (JPLRepo) for KSP 1.3.0
