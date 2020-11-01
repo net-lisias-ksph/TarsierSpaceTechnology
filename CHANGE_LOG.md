@@ -1,5 +1,9 @@
 # Tarsier Space Technology
 
+* 2016-0401: 5.9.1 (JPLRepo) for KSP 1.1 PRE-RELEASE
+	+ This is first cut experiments pre-release for upcoming Full release when KSP 1.1 goes full release.
+	+ BEWARE: This no doubt has BEES in it, and is NOT a RELEASE version.
+	+ Please report all bugs on github. The more eyes on it, the better it will be when 1.1 releases.
 * 2016-0327: 5.9 (JPLRepo) for KSP 1.1
 	+ Fixed TST AppLauncher Icon appearing in map view even when active vessel has no TST parts.
 	+ Fixed error on start-up for integration with Kopernicus mod.
