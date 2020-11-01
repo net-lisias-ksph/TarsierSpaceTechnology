@@ -1,5 +1,9 @@
 # Tarsier Space Technology
 
+* 2016-1012: 6.5 (JPLRepo) for KSP 1.2
+	+ Changes for KSP 1.2.
+		- Added a check to Contract generation to ensure the TST parts are actually loaded in-game (removes log spam if they aren't).
+		- Moved Some (*not all) settings to the new Stock Difficulty Settings Integration.
 * 2016-0709: 6.4 (JPLRepo) for KSP 1.1.3
 	+ Compatible version for integration with ResearchBodies V1.8.
 	+ Re-balanced price of Telescopes to take into account the cost of the ResearchBodies and Asteroid Day infrared telescopes.
