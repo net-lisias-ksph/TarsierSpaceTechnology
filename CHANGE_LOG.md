@@ -1,5 +1,21 @@
 # Tarsier Space Technology
 
+* 2016-0327: 5.9 (JPLRepo) for KSP 1.1
+	+ Fixed TST AppLauncher Icon appearing in map view even when active vessel has no TST parts.
+	+ Fixed error on start-up for integration with Kopernicus mod.
+	+ Fixed KIS/KAS support for the small Science Drive.
+	+ Massive re-factor of the code base for future ease of maintenace support and preparations for KSP 1.1 (THIS DOES NOT mean TST is ready for KSP 1.1).
+	+ Added additional Space Telescope part config file parameters for future integration with other telescopes (like DMagic's Orbital Science).
+	+ Fixed the TST icon showing sometimes when it shouldn't (Tracking Station, In Flight Map mode, when active vessel has no TST parts on it).
+	+ There is now a Settings menu available from the SpaceCenter so you don't have to edit the config file directly.
+	+ Settings you can change:
+		- If you try to make any of these settings larger than your screen size TST will automatically cap it. If you set it too small, bad luck, change it back to a larger value.
+		- The size of the ChemCam camera window for both small and large size setting (in pixels).
+		- The size of the Telescope's camera window for both small and large size setting (in pixels).
+			- Use Stock App Icon" - if ON will use the Stock App Icon AppLauncher button, if Off will use Blizzy's toolbar.
+		- (requires you to change scene for this setting to take effect, eg: go to Editor, Flight, TrackingCentre, etc).
+			- Debug Logging ON" - This will turn debugging messages in your output log ON or OFF. Leave it OFF (As it causes performace issues) unless you are having some problems with TST, then turning it on and capturing your log and sending to me greatly helps me to help you.
+		- ToolTips - Yes the GUI windows now have Tooltips - you can turn them on and off here.
 * 2016-0127: 5.8 (JPLRepo) for KSP 1.0.5
 	+ V5.8 Added support for ResearchBodies mod (MUST HAVE ResearchBodies V1.6 or above).
 		- If ResearchBodies mod is installed then:-
